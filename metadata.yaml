@@ -1,0 +1,36 @@
+_repo: The-Will-to-Believe-and-Other-Essays-in-Popular-Philosophy_26659
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, William
+    birthdate: 1842
+    deathdate: 1910
+    gutenberg_agent_id: '325'
+    url: http://www.gutenberg.org/2009/agents/325
+    wikipedia: http://en.wikipedia.org/wiki/William_James
+description: Two books bound together, from religious period of one of the most renowned
+  and representative thinkers. Written for laymen, thus easy to understand, it is
+  penetrating and brilliant as well. Illuminations of age-old religious questions
+  from a pragmatic perspective, written in a luminous style.
+gutenberg_issued: '2008-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26659'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy'
+- !lcsh 'Belief and doubt'
+- !lcsh 'Essays'
+tableOfContents: The will to believe -- Is life worth living? -- The sentiment of
+  rationality -- Reflex action and theism -- The dilemma of determinism -- The moral
+  philosopher and the moral life -- Great men and their environment -- The importance
+  of individuals -- On some Hegelisms -- What psychical research has accomplished.
+title: The Will to Believe, and Other Essays in Popular Philosophy
+url: http://www.gutenberg.org/ebooks/26659
